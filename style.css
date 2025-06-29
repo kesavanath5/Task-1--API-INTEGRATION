@@ -1,0 +1,68 @@
+/* style.css */Add commentMore actions
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #1c92d2, #f2fcfe);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #1c92d2;
+}
+
+.search {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.search input {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.search button {
+  padding: 10px 16px;
+  background-color: #1c92d2;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.search button:hover {
+  background-color: #0b6da8;
+}
+
+.result-box {
+  background-color: #f0f9ff;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 16px;
+  color: #333;
+}
