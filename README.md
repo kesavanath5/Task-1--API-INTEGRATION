@@ -78,4 +78,7 @@ Click the Search button.
 
 ✅ You’ll see real-time weather information from the API.
 
+Output:
+![Image](https://github.com/user-attachments/assets/317a4c77-aecf-4202-a65f-75de4f3c4c52)
+
 
