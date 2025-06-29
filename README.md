@@ -1,6 +1,6 @@
 # Task-1--API-INTEGRATION
 
-🙌 Completed By
+
 Company: CodeTech IT solutions
 Name: KESAVA NATH G
 Domain: Full Stack Development
